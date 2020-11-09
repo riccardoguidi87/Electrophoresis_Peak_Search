@@ -1,6 +1,9 @@
-# Electrophoresis_Peak_Search
- A python script that search for approriate peaks in an elecrophoresis table
-README
+## Electrophoresis_Peak_Search
+A python script that search for approriate peaks in an elecrophoresis table
+
+This program takes two tables as input: 
+- ThermoFisher Cloud Electrophoresis Tabulation - you opbtain such talbe when you run your electrophoresis files (.fsa) with
+ Cloud Thermo[https://www.thermofisher.com/order/catalog/product/A26811?SID=srch-srp-A26811#/A26811?SID=srch-srp-A26811]
 
 - Import in this folder a copy of the original Therm Table
 - Rename the Original Table “Table1.csv” - be exact in the name!!
