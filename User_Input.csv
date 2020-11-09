@@ -1,0 +1,4 @@
+﻿PlateID,PP#,ExpectedPeak1,ExpectedPeak2,Tollerance,Gene,FirstWell,LastWell
+RUN200916A,A05,133,195,20,Haus7,A1,H12
+RUN200916B,A07,128,164,20,Ggta1,A1,H12
+RUN200916C,B01,253,417,20,Tyk2,A1,H12
